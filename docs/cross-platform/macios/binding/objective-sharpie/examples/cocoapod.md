@@ -8,7 +8,7 @@ ms.author: daortin
 ms.date: 03/28/2018
 ---
 
-# Real-world example using CocoaPods
+# DEPRECATED Real-world example using CocoaPods
 
 > [!NOTE]
 > This example uses the [AFNetworking CocoaPod](https://cocoapods.org/pods/AFNetworking).
