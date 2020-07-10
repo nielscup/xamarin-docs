@@ -31,9 +31,9 @@ interface MyType : [Protocol1, Protocol2] {
 ```
 
 Every interface in your contract definition that has the 
-[`[BaseType]`](#BaseTypeAttribute) attribute that declares the base type for 
+[`[BaseType]`](#BaseTypeAttribute) attribute declares the base type for 
 the generated object. In the above declaration a `MyType` class C# type will 
-be generated that binds to an Objective-C type called `MyType`.
+be generated that binds to an Objective-C type called `BTYPE`.
 
 If you specify any types after the typename (in the sample above `Protocol1`
 and `Protocol2`) using the interface inheritance syntax the contents of those
